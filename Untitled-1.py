@@ -1,0 +1,1 @@
+print("pine" + "apple")
